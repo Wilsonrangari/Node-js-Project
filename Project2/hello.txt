@@ -1,1 +1,1 @@
-Hi Wilson auto,atically this text will be added to the hello.txt
+Hi Wilson automatically this text will be added to the hello.txt
