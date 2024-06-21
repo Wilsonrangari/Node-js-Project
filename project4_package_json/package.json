@@ -1,0 +1,22 @@
+{
+  "name": "project4_package_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilsonrangari/Node-js-Project.git"
+  },
+  "author": "Wilson Rangari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilsonrangari/Node-js-Project/issues"
+  },
+  "homepage": "https://github.com/Wilsonrangari/Node-js-Project#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
