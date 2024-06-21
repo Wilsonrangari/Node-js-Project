@@ -4,3 +4,5 @@ const app = require('./app')
 //console.log("Hello World")
 console.log(app)
 console.log(app.x +" : "+app.y)
+
+console.log(app.z());
